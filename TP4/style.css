@@ -1,0 +1,53 @@
+body{
+    
+    background-image: url(pics/background.jpg);
+    background-size: cover;
+}
+h1{
+    color: #ffffff;
+    text-align: center;
+    font-size: 2.5em;
+    margin-top: 20px;
+    text-decoration: underline;
+    font-family: Pixelify Sans;
+    text-shadow: 2px 2px 4px #33ff00;
+    
+}
+h2{
+    color: #ffffff;
+    font-style: italic;
+    text-shadow: 6px 6px 6px rgb(0, 0, 0);
+}
+.carte{
+    background-color: #133500;
+    border-radius: 20px;
+    padding: 20px;
+    margin: 20px auto;
+    height: 400px;
+    width: 400px;
+    box-shadow: none;
+    text-align: center;
+}
+img{
+    width: 200px;
+    height: 200px;
+    border-radius: 100px;
+    border-style: dashed;
+    border-color: #33ff00;
+    
+   
+}
+p{
+    color: #ffffff;
+    font-size: 1.2em;
+    margin-top: 10px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+footer {
+    background-color: #133500;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    padding: 1%;
+    margin-top: 19% ;
+    border-radius: 40px;
+  }
