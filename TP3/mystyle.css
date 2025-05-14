@@ -1,0 +1,26 @@
+body{
+    background-color: #db9cff;
+    background-image: url('OIP (1).jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h1{
+    color: #0800ff;
+    margin-left: 20px;
+}
+#Acceuil{
+    background-color: #0087e732;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#Articles{
+    background-color: #00e73271;
+}
+#contact{
+    background-color: #e7e70069;
+}
+#dyk{
+    background-color: #ff393962;
+}
+.j{
+    background-color: #e700c158;
+}
